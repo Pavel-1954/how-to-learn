@@ -4,3 +4,7 @@
   text-decoration: none;
   color: white;
 }
+.footer__column_link:hover {
+  opacity: 0.5;
+  transition: linear .2s;
+}
